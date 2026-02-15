@@ -79,10 +79,3 @@ logs/
 .env.production
 .env.development
 
-# Docker
-.dockerignore
-Dockerfile
-docker-compose*.yml
-*.pid
-*.seed
-*.pid.lock
